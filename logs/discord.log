@@ -1,0 +1,13 @@
+2026-10-13T08:39:03.015Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt | DRY-RUN
+2026-10-13T08:39:03.022Z [ERROR] [discord] DISCORD_WEBHOOK_URL est absent (fichier .env ou variable d'environnement)
+2026-10-13T08:46:46.485Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt | DRY-RUN
+2026-10-13T08:46:46.497Z [ERROR] [discord] DISCORD_WEBHOOK_URL n'a pas le format d'une URL de webhook Discord
+2026-10-13T08:47:27.671Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt | DRY-RUN
+2026-10-13T08:47:27.679Z [ERROR] [discord] Fichier(s) introuvable(s) : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf, /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt — rien n'a été publié
+2026-10-13T09:09:28.198Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt | DRY-RUN
+2026-10-13T09:09:28.212Z [ERROR] [discord] Fichier(s) introuvable(s) : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf — rien n'a été publié
+2026-10-13T09:15:54.037Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt | DRY-RUN
+2026-10-13T09:15:54.043Z [ERROR] [discord] Fichier(s) introuvable(s) : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf — rien n'a été publié
+2026-10-13T09:27:59.763Z [INFO] [discord] Édition 2026-10-13 | PDF : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.pdf | TXT : /Users/sofiane/Desktop/S&P/News Letter/Discord/output/2026-10-13/newsletter.txt
+2026-10-13T09:28:00.329Z [INFO] [discord] Message 1/1 publié (id 1559497927595130944) avec le PDF
+2026-10-13T09:28:00.330Z [INFO] [discord] Publication Discord terminée pour l'édition 2026-10-13

@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-discord-publisher",
+  "version": "1.0.0",
+  "description": "Publication de la newsletter S&P sur Discord via webhook",
+  "main": "publish_discord.js",
+  "scripts": {
+    "publish": "node publish_discord.js",
+    "publish:dry": "node publish_discord.js --dry-run"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
